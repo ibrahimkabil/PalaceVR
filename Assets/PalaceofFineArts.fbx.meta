@@ -1,0 +1,1146 @@
+fileFormatVersion: 2
+guid: 2018afb28f04c443bb0f939ae076d900
+timeCreated: 1466902404
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: column
+    100002: column 1
+    100004: column 10
+    100006: column 100
+    100008: column 101
+    100010: column 102
+    100012: column 103
+    100014: column 11
+    100016: column 12
+    100018: column 13
+    100020: column 14
+    100022: column 15
+    100024: column 16
+    100026: column 17
+    100028: column 18
+    100030: column 19
+    100032: column 2
+    100034: column 20
+    100036: column 21
+    100038: column 22
+    100040: column 23
+    100042: column 24
+    100044: column 25
+    100046: column 26
+    100048: column 27
+    100050: column 28
+    100052: column 29
+    100054: column 3
+    100056: column 30
+    100058: column 31
+    100060: column 32
+    100062: column 33
+    100064: column 34
+    100066: column 35
+    100068: column 36
+    100070: column 37
+    100072: column 38
+    100074: column 39
+    100076: column 4
+    100078: column 40
+    100080: column 41
+    100082: column 42
+    100084: column 43
+    100086: column 44
+    100088: column 45
+    100090: column 46
+    100092: column 47
+    100094: column 48
+    100096: column 49
+    100098: column 5
+    100100: column 50
+    100102: column 51
+    100104: column 52
+    100106: column 53
+    100108: column 54
+    100110: column 55
+    100112: column 56
+    100114: column 57
+    100116: column 58
+    100118: column 59
+    100120: column 6
+    100122: column 60
+    100124: column 61
+    100126: column 62
+    100128: column 63
+    100130: column 64
+    100132: column 65
+    100134: column 66
+    100136: column 67
+    100138: column 68
+    100140: column 69
+    100142: column 7
+    100144: column 70
+    100146: column 71
+    100148: column 72
+    100150: column 73
+    100152: column 74
+    100154: column 75
+    100156: column 76
+    100158: column 77
+    100160: column 78
+    100162: column 79
+    100164: column 8
+    100166: column 80
+    100168: column 81
+    100170: column 82
+    100172: column 83
+    100174: column 84
+    100176: column 85
+    100178: column 86
+    100180: column 87
+    100182: column 88
+    100184: column 89
+    100186: column 9
+    100188: column 90
+    100190: column 91
+    100192: column 92
+    100194: column 93
+    100196: column 94
+    100198: column 95
+    100200: column 96
+    100202: column 97
+    100204: column 98
+    100206: column 99
+    100208: door
+    100210: door 1
+    100212: door 2
+    100214: door 3
+    100216: door 4
+    100218: door 5
+    100220: door 6
+    100222: door 7
+    100224: ID1010
+    100226: ID1038
+    100228: ID1046
+    100230: ID1054
+    100232: ID1072
+    100234: ID1090
+    100236: ID1098
+    100238: ID1106
+    100240: ID1134
+    100242: ID1142
+    100244: ID1155
+    100246: ID1168
+    100248: ID1176
+    100250: ID1184
+    100252: ID1192
+    100254: ID1200
+    100256: ID1208
+    100258: ID1216
+    100260: ID1224
+    100262: ID1232
+    100264: ID222
+    100266: ID317
+    100268: ID325
+    100270: ID498
+    100272: ID506
+    100274: ID514
+    100276: ID522
+    100278: ID530
+    100280: ID538
+    100282: ID586
+    100284: ID594
+    100286: ID602
+    100288: ID610
+    100290: ID618
+    100292: ID651
+    100294: ID67
+    100296: ID67 1
+    100298: ID67 2
+    100300: ID67 3
+    100302: ID67 4
+    100304: ID67 5
+    100306: ID674
+    100308: ID682
+    100310: ID690
+    100312: ID698
+    100314: ID706
+    100316: ID714
+    100318: ID722
+    100320: ID730
+    100322: ID738
+    100324: ID751
+    100326: ID764
+    100328: ID777
+    100330: ID790
+    100332: ID80
+    100334: ID80 1
+    100336: ID80 2
+    100338: ID80 3
+    100340: ID80 4
+    100342: ID80 5
+    100344: ID803
+    100346: ID811
+    100348: ID819
+    100350: ID842
+    100352: ID850
+    100354: ID868
+    100356: ID886
+    100358: ID904
+    100360: ID937
+    100362: ID960
+    100364: ID978
+    100366: ID986
+    100368: ID992
+    100370: instance_0
+    100372: instance_1
+    100374: instance_1 1
+    100376: instance_1 2
+    100378: instance_1 3
+    100380: instance_1 4
+    100382: instance_1 5
+    100384: instance_10
+    100386: instance_11
+    100388: instance_12
+    100390: instance_13
+    100392: instance_14
+    100394: instance_15
+    100396: instance_16
+    100398: instance_17
+    100400: instance_18
+    100402: instance_19
+    100404: instance_2
+    100406: instance_2 1
+    100408: instance_2 2
+    100410: instance_2 3
+    100412: instance_2 4
+    100414: instance_2 5
+    100416: instance_20
+    100418: instance_21
+    100420: instance_22
+    100422: instance_23
+    100424: instance_24
+    100426: instance_25
+    100428: instance_26
+    100430: instance_27
+    100432: instance_28
+    100434: instance_29
+    100436: instance_3
+    100438: instance_3 1
+    100440: instance_3 2
+    100442: instance_3 3
+    100444: instance_3 4
+    100446: instance_3 5
+    100448: instance_30
+    100450: instance_31
+    100452: instance_32
+    100454: instance_33
+    100456: instance_34
+    100458: instance_35
+    100460: instance_36
+    100462: instance_37
+    100464: instance_38
+    100466: instance_39
+    100468: instance_4
+    100470: instance_4 1
+    100472: instance_4 2
+    100474: instance_4 3
+    100476: instance_4 4
+    100478: instance_4 5
+    100480: instance_40
+    100482: instance_41
+    100484: instance_42
+    100486: instance_43
+    100488: instance_44
+    100490: instance_45
+    100492: instance_46
+    100494: instance_47
+    100496: instance_48
+    100498: instance_49
+    100500: instance_5
+    100502: instance_50
+    100504: instance_51
+    100506: instance_52
+    100508: instance_53
+    100510: instance_54
+    100512: instance_55
+    100514: instance_56
+    100516: instance_57
+    100518: instance_58
+    100520: instance_59
+    100522: instance_6
+    100524: instance_60
+    100526: instance_61
+    100528: instance_62
+    100530: instance_63
+    100532: instance_64
+    100534: instance_65
+    100536: instance_66
+    100538: instance_67
+    100540: instance_68
+    100542: instance_69
+    100544: instance_7
+    100546: instance_70
+    100548: instance_71
+    100550: instance_72
+    100552: instance_73
+    100554: instance_74
+    100556: instance_75
+    100558: instance_76
+    100560: instance_77
+    100562: instance_78
+    100564: instance_79
+    100566: instance_8
+    100568: instance_80
+    100570: instance_81
+    100572: instance_82
+    100574: instance_83
+    100576: instance_84
+    100578: instance_85
+    100580: instance_86
+    100582: instance_87
+    100584: instance_88
+    100586: instance_89
+    100588: instance_9
+    100590: instance_90
+    100592: instance_91
+    100594: instance_92
+    100596: instance_93
+    100598: instance_94
+    100600: instance_95
+    100602: instance_96
+    100604: instance_97
+    100606: Last Saved SketchUp View
+    100608: overpiece
+    100610: overpiece 1
+    100612: overpiece 2
+    100614: overpiece 3
+    100616: overpiece 4
+    100618: overpiece 5
+    100620: //RootNode
+    400000: column
+    400002: column 1
+    400004: column 10
+    400006: column 100
+    400008: column 101
+    400010: column 102
+    400012: column 103
+    400014: column 11
+    400016: column 12
+    400018: column 13
+    400020: column 14
+    400022: column 15
+    400024: column 16
+    400026: column 17
+    400028: column 18
+    400030: column 19
+    400032: column 2
+    400034: column 20
+    400036: column 21
+    400038: column 22
+    400040: column 23
+    400042: column 24
+    400044: column 25
+    400046: column 26
+    400048: column 27
+    400050: column 28
+    400052: column 29
+    400054: column 3
+    400056: column 30
+    400058: column 31
+    400060: column 32
+    400062: column 33
+    400064: column 34
+    400066: column 35
+    400068: column 36
+    400070: column 37
+    400072: column 38
+    400074: column 39
+    400076: column 4
+    400078: column 40
+    400080: column 41
+    400082: column 42
+    400084: column 43
+    400086: column 44
+    400088: column 45
+    400090: column 46
+    400092: column 47
+    400094: column 48
+    400096: column 49
+    400098: column 5
+    400100: column 50
+    400102: column 51
+    400104: column 52
+    400106: column 53
+    400108: column 54
+    400110: column 55
+    400112: column 56
+    400114: column 57
+    400116: column 58
+    400118: column 59
+    400120: column 6
+    400122: column 60
+    400124: column 61
+    400126: column 62
+    400128: column 63
+    400130: column 64
+    400132: column 65
+    400134: column 66
+    400136: column 67
+    400138: column 68
+    400140: column 69
+    400142: column 7
+    400144: column 70
+    400146: column 71
+    400148: column 72
+    400150: column 73
+    400152: column 74
+    400154: column 75
+    400156: column 76
+    400158: column 77
+    400160: column 78
+    400162: column 79
+    400164: column 8
+    400166: column 80
+    400168: column 81
+    400170: column 82
+    400172: column 83
+    400174: column 84
+    400176: column 85
+    400178: column 86
+    400180: column 87
+    400182: column 88
+    400184: column 89
+    400186: column 9
+    400188: column 90
+    400190: column 91
+    400192: column 92
+    400194: column 93
+    400196: column 94
+    400198: column 95
+    400200: column 96
+    400202: column 97
+    400204: column 98
+    400206: column 99
+    400208: door
+    400210: door 1
+    400212: door 2
+    400214: door 3
+    400216: door 4
+    400218: door 5
+    400220: door 6
+    400222: door 7
+    400224: ID1010
+    400226: ID1038
+    400228: ID1046
+    400230: ID1054
+    400232: ID1072
+    400234: ID1090
+    400236: ID1098
+    400238: ID1106
+    400240: ID1134
+    400242: ID1142
+    400244: ID1155
+    400246: ID1168
+    400248: ID1176
+    400250: ID1184
+    400252: ID1192
+    400254: ID1200
+    400256: ID1208
+    400258: ID1216
+    400260: ID1224
+    400262: ID1232
+    400264: ID222
+    400266: ID317
+    400268: ID325
+    400270: ID498
+    400272: ID506
+    400274: ID514
+    400276: ID522
+    400278: ID530
+    400280: ID538
+    400282: ID586
+    400284: ID594
+    400286: ID602
+    400288: ID610
+    400290: ID618
+    400292: ID651
+    400294: ID67
+    400296: ID67 1
+    400298: ID67 2
+    400300: ID67 3
+    400302: ID67 4
+    400304: ID67 5
+    400306: ID674
+    400308: ID682
+    400310: ID690
+    400312: ID698
+    400314: ID706
+    400316: ID714
+    400318: ID722
+    400320: ID730
+    400322: ID738
+    400324: ID751
+    400326: ID764
+    400328: ID777
+    400330: ID790
+    400332: ID80
+    400334: ID80 1
+    400336: ID80 2
+    400338: ID80 3
+    400340: ID80 4
+    400342: ID80 5
+    400344: ID803
+    400346: ID811
+    400348: ID819
+    400350: ID842
+    400352: ID850
+    400354: ID868
+    400356: ID886
+    400358: ID904
+    400360: ID937
+    400362: ID960
+    400364: ID978
+    400366: ID986
+    400368: ID992
+    400370: instance_0
+    400372: instance_1
+    400374: instance_1 1
+    400376: instance_1 2
+    400378: instance_1 3
+    400380: instance_1 4
+    400382: instance_1 5
+    400384: instance_10
+    400386: instance_11
+    400388: instance_12
+    400390: instance_13
+    400392: instance_14
+    400394: instance_15
+    400396: instance_16
+    400398: instance_17
+    400400: instance_18
+    400402: instance_19
+    400404: instance_2
+    400406: instance_2 1
+    400408: instance_2 2
+    400410: instance_2 3
+    400412: instance_2 4
+    400414: instance_2 5
+    400416: instance_20
+    400418: instance_21
+    400420: instance_22
+    400422: instance_23
+    400424: instance_24
+    400426: instance_25
+    400428: instance_26
+    400430: instance_27
+    400432: instance_28
+    400434: instance_29
+    400436: instance_3
+    400438: instance_3 1
+    400440: instance_3 2
+    400442: instance_3 3
+    400444: instance_3 4
+    400446: instance_3 5
+    400448: instance_30
+    400450: instance_31
+    400452: instance_32
+    400454: instance_33
+    400456: instance_34
+    400458: instance_35
+    400460: instance_36
+    400462: instance_37
+    400464: instance_38
+    400466: instance_39
+    400468: instance_4
+    400470: instance_4 1
+    400472: instance_4 2
+    400474: instance_4 3
+    400476: instance_4 4
+    400478: instance_4 5
+    400480: instance_40
+    400482: instance_41
+    400484: instance_42
+    400486: instance_43
+    400488: instance_44
+    400490: instance_45
+    400492: instance_46
+    400494: instance_47
+    400496: instance_48
+    400498: instance_49
+    400500: instance_5
+    400502: instance_50
+    400504: instance_51
+    400506: instance_52
+    400508: instance_53
+    400510: instance_54
+    400512: instance_55
+    400514: instance_56
+    400516: instance_57
+    400518: instance_58
+    400520: instance_59
+    400522: instance_6
+    400524: instance_60
+    400526: instance_61
+    400528: instance_62
+    400530: instance_63
+    400532: instance_64
+    400534: instance_65
+    400536: instance_66
+    400538: instance_67
+    400540: instance_68
+    400542: instance_69
+    400544: instance_7
+    400546: instance_70
+    400548: instance_71
+    400550: instance_72
+    400552: instance_73
+    400554: instance_74
+    400556: instance_75
+    400558: instance_76
+    400560: instance_77
+    400562: instance_78
+    400564: instance_79
+    400566: instance_8
+    400568: instance_80
+    400570: instance_81
+    400572: instance_82
+    400574: instance_83
+    400576: instance_84
+    400578: instance_85
+    400580: instance_86
+    400582: instance_87
+    400584: instance_88
+    400586: instance_89
+    400588: instance_9
+    400590: instance_90
+    400592: instance_91
+    400594: instance_92
+    400596: instance_93
+    400598: instance_94
+    400600: instance_95
+    400602: instance_96
+    400604: instance_97
+    400606: Last Saved SketchUp View
+    400608: overpiece
+    400610: overpiece 1
+    400612: overpiece 2
+    400614: overpiece 3
+    400616: overpiece 4
+    400618: overpiece 5
+    400620: //RootNode
+    2300000: column
+    2300002: column 1
+    2300004: column 10
+    2300006: column 100
+    2300008: column 101
+    2300010: column 102
+    2300012: column 103
+    2300014: column 11
+    2300016: column 12
+    2300018: column 13
+    2300020: column 14
+    2300022: column 15
+    2300024: column 16
+    2300026: column 17
+    2300028: column 18
+    2300030: column 19
+    2300032: column 2
+    2300034: column 20
+    2300036: column 21
+    2300038: column 22
+    2300040: column 23
+    2300042: column 24
+    2300044: column 25
+    2300046: column 26
+    2300048: column 27
+    2300050: column 28
+    2300052: column 29
+    2300054: column 3
+    2300056: column 30
+    2300058: column 31
+    2300060: column 32
+    2300062: column 33
+    2300064: column 34
+    2300066: column 35
+    2300068: column 36
+    2300070: column 37
+    2300072: column 38
+    2300074: column 39
+    2300076: column 4
+    2300078: column 40
+    2300080: column 41
+    2300082: column 42
+    2300084: column 43
+    2300086: column 44
+    2300088: column 45
+    2300090: column 46
+    2300092: column 47
+    2300094: column 48
+    2300096: column 49
+    2300098: column 5
+    2300100: column 50
+    2300102: column 51
+    2300104: column 52
+    2300106: column 53
+    2300108: column 54
+    2300110: column 55
+    2300112: column 56
+    2300114: column 57
+    2300116: column 58
+    2300118: column 59
+    2300120: column 6
+    2300122: column 60
+    2300124: column 61
+    2300126: column 62
+    2300128: column 63
+    2300130: column 64
+    2300132: column 65
+    2300134: column 66
+    2300136: column 67
+    2300138: column 68
+    2300140: column 69
+    2300142: column 7
+    2300144: column 70
+    2300146: column 71
+    2300148: column 72
+    2300150: column 73
+    2300152: column 74
+    2300154: column 75
+    2300156: column 76
+    2300158: column 77
+    2300160: column 78
+    2300162: column 79
+    2300164: column 8
+    2300166: column 80
+    2300168: column 81
+    2300170: column 82
+    2300172: column 83
+    2300174: column 84
+    2300176: column 85
+    2300178: column 86
+    2300180: column 87
+    2300182: column 88
+    2300184: column 89
+    2300186: column 9
+    2300188: column 90
+    2300190: column 91
+    2300192: column 92
+    2300194: column 93
+    2300196: column 94
+    2300198: column 95
+    2300200: column 96
+    2300202: column 97
+    2300204: column 98
+    2300206: column 99
+    2300208: door
+    2300210: door 1
+    2300212: door 2
+    2300214: door 3
+    2300216: door 4
+    2300218: door 5
+    2300220: door 6
+    2300222: door 7
+    2300224: ID1010
+    2300226: ID1038
+    2300228: ID1046
+    2300230: ID1054
+    2300232: ID1072
+    2300234: ID1090
+    2300236: ID1098
+    2300238: ID1106
+    2300240: ID1134
+    2300242: ID1142
+    2300244: ID1155
+    2300246: ID1168
+    2300248: ID1176
+    2300250: ID1184
+    2300252: ID1192
+    2300254: ID1200
+    2300256: ID1208
+    2300258: ID1216
+    2300260: ID1224
+    2300262: ID1232
+    2300264: ID222
+    2300266: ID317
+    2300268: ID325
+    2300270: ID498
+    2300272: ID506
+    2300274: ID514
+    2300276: ID522
+    2300278: ID530
+    2300280: ID538
+    2300282: ID586
+    2300284: ID594
+    2300286: ID602
+    2300288: ID610
+    2300290: ID618
+    2300292: ID651
+    2300294: ID67
+    2300296: ID67 1
+    2300298: ID67 2
+    2300300: ID67 3
+    2300302: ID67 4
+    2300304: ID67 5
+    2300306: ID674
+    2300308: ID682
+    2300310: ID690
+    2300312: ID698
+    2300314: ID706
+    2300316: ID714
+    2300318: ID722
+    2300320: ID730
+    2300322: ID738
+    2300324: ID751
+    2300326: ID764
+    2300328: ID777
+    2300330: ID790
+    2300332: ID80
+    2300334: ID80 1
+    2300336: ID80 2
+    2300338: ID80 3
+    2300340: ID80 4
+    2300342: ID80 5
+    2300344: ID803
+    2300346: ID811
+    2300348: ID819
+    2300350: ID842
+    2300352: ID850
+    2300354: ID868
+    2300356: ID886
+    2300358: ID904
+    2300360: ID937
+    2300362: ID960
+    2300364: ID978
+    2300366: ID986
+    2300368: ID992
+    2300370: overpiece
+    2300372: overpiece 1
+    2300374: overpiece 2
+    2300376: overpiece 3
+    2300378: overpiece 4
+    2300380: overpiece 5
+    2300382: //RootNode
+    3300000: column
+    3300002: column 1
+    3300004: column 10
+    3300006: column 100
+    3300008: column 101
+    3300010: column 102
+    3300012: column 103
+    3300014: column 11
+    3300016: column 12
+    3300018: column 13
+    3300020: column 14
+    3300022: column 15
+    3300024: column 16
+    3300026: column 17
+    3300028: column 18
+    3300030: column 19
+    3300032: column 2
+    3300034: column 20
+    3300036: column 21
+    3300038: column 22
+    3300040: column 23
+    3300042: column 24
+    3300044: column 25
+    3300046: column 26
+    3300048: column 27
+    3300050: column 28
+    3300052: column 29
+    3300054: column 3
+    3300056: column 30
+    3300058: column 31
+    3300060: column 32
+    3300062: column 33
+    3300064: column 34
+    3300066: column 35
+    3300068: column 36
+    3300070: column 37
+    3300072: column 38
+    3300074: column 39
+    3300076: column 4
+    3300078: column 40
+    3300080: column 41
+    3300082: column 42
+    3300084: column 43
+    3300086: column 44
+    3300088: column 45
+    3300090: column 46
+    3300092: column 47
+    3300094: column 48
+    3300096: column 49
+    3300098: column 5
+    3300100: column 50
+    3300102: column 51
+    3300104: column 52
+    3300106: column 53
+    3300108: column 54
+    3300110: column 55
+    3300112: column 56
+    3300114: column 57
+    3300116: column 58
+    3300118: column 59
+    3300120: column 6
+    3300122: column 60
+    3300124: column 61
+    3300126: column 62
+    3300128: column 63
+    3300130: column 64
+    3300132: column 65
+    3300134: column 66
+    3300136: column 67
+    3300138: column 68
+    3300140: column 69
+    3300142: column 7
+    3300144: column 70
+    3300146: column 71
+    3300148: column 72
+    3300150: column 73
+    3300152: column 74
+    3300154: column 75
+    3300156: column 76
+    3300158: column 77
+    3300160: column 78
+    3300162: column 79
+    3300164: column 8
+    3300166: column 80
+    3300168: column 81
+    3300170: column 82
+    3300172: column 83
+    3300174: column 84
+    3300176: column 85
+    3300178: column 86
+    3300180: column 87
+    3300182: column 88
+    3300184: column 89
+    3300186: column 9
+    3300188: column 90
+    3300190: column 91
+    3300192: column 92
+    3300194: column 93
+    3300196: column 94
+    3300198: column 95
+    3300200: column 96
+    3300202: column 97
+    3300204: column 98
+    3300206: column 99
+    3300208: door
+    3300210: door 1
+    3300212: door 2
+    3300214: door 3
+    3300216: door 4
+    3300218: door 5
+    3300220: door 6
+    3300222: door 7
+    3300224: ID1010
+    3300226: ID1038
+    3300228: ID1046
+    3300230: ID1054
+    3300232: ID1072
+    3300234: ID1090
+    3300236: ID1098
+    3300238: ID1106
+    3300240: ID1134
+    3300242: ID1142
+    3300244: ID1155
+    3300246: ID1168
+    3300248: ID1176
+    3300250: ID1184
+    3300252: ID1192
+    3300254: ID1200
+    3300256: ID1208
+    3300258: ID1216
+    3300260: ID1224
+    3300262: ID1232
+    3300264: ID222
+    3300266: ID317
+    3300268: ID325
+    3300270: ID498
+    3300272: ID506
+    3300274: ID514
+    3300276: ID522
+    3300278: ID530
+    3300280: ID538
+    3300282: ID586
+    3300284: ID594
+    3300286: ID602
+    3300288: ID610
+    3300290: ID618
+    3300292: ID651
+    3300294: ID67
+    3300296: ID67 1
+    3300298: ID67 2
+    3300300: ID67 3
+    3300302: ID67 4
+    3300304: ID67 5
+    3300306: ID674
+    3300308: ID682
+    3300310: ID690
+    3300312: ID698
+    3300314: ID706
+    3300316: ID714
+    3300318: ID722
+    3300320: ID730
+    3300322: ID738
+    3300324: ID751
+    3300326: ID764
+    3300328: ID777
+    3300330: ID790
+    3300332: ID80
+    3300334: ID80 1
+    3300336: ID80 2
+    3300338: ID80 3
+    3300340: ID80 4
+    3300342: ID80 5
+    3300344: ID803
+    3300346: ID811
+    3300348: ID819
+    3300350: ID842
+    3300352: ID850
+    3300354: ID868
+    3300356: ID886
+    3300358: ID904
+    3300360: ID937
+    3300362: ID960
+    3300364: ID978
+    3300366: ID986
+    3300368: ID992
+    3300370: overpiece
+    3300372: overpiece 1
+    3300374: overpiece 2
+    3300376: overpiece 3
+    3300378: overpiece 4
+    3300380: overpiece 5
+    3300382: //RootNode
+    4300000: SketchUp
+    4300002: ID222
+    4300004: ID317
+    4300006: ID325
+    4300008: ID498
+    4300010: ID506
+    4300012: ID514
+    4300014: ID522
+    4300016: ID530
+    4300018: ID538
+    4300020: ID586
+    4300022: ID594
+    4300024: ID602
+    4300026: ID610
+    4300028: ID618
+    4300030: ID651
+    4300032: ID674
+    4300034: ID682
+    4300036: ID690
+    4300038: ID698
+    4300040: ID706
+    4300042: ID714
+    4300044: ID722
+    4300046: ID730
+    4300048: ID738
+    4300050: ID751
+    4300052: ID764
+    4300054: ID777
+    4300056: ID790
+    4300058: ID803
+    4300060: ID811
+    4300062: ID819
+    4300064: ID842
+    4300066: ID850
+    4300068: ID868
+    4300070: ID886
+    4300072: ID904
+    4300074: ID937
+    4300076: ID960
+    4300078: ID978
+    4300080: ID986
+    4300082: ID992
+    4300084: ID1010
+    4300086: ID1038
+    4300088: ID1046
+    4300090: ID1054
+    4300092: ID1072
+    4300094: ID1090
+    4300096: ID1098
+    4300098: ID1106
+    4300100: ID1134
+    4300102: ID1142
+    4300104: ID1155
+    4300106: ID1168
+    4300108: ID1176
+    4300110: ID1184
+    4300112: ID1192
+    4300114: ID1200
+    4300116: ID1208
+    4300118: ID1216
+    4300120: ID1224
+    4300122: ID1232
+    4300124: overpiece
+    4300126: ID67
+    4300128: ID80
+    4300130: column
+    4300132: column
+    4300134: door
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
